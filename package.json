@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "samoyka_bot.js",
   "scripts": {
-    "start": "node samoyka_bot.js"
+    "start": "node bot.js"
   },
   "dependencies": {
     "node-telegram-bot-api": "^0.66.0"
